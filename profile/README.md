@@ -20,7 +20,6 @@ mcp-server-for-revit is a framework that implements the mcp protocol based on Au
 ---
 ---
 
-These repo are deprecated in favour of https://github.com/mcp-servers-for-revit/mcp-servers-for-revit (monorepo)
 
 
 The project consists of three main parts:
