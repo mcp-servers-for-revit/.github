@@ -1,14 +1,27 @@
-## revit-mcp
+## mcp-server-for-revit
 
 English | [简体中文](README_zh.md)
 
-revit-mcp is a framework that implements the mcp protocol based on Autodesk Revit software. It allows AI conversation clients compatible with the mcp protocol to drive Revit.
+mcp-server-for-revit is a framework that implements the mcp protocol based on Autodesk Revit software. It allows AI conversation clients compatible with the mcp protocol to drive Revit.
 
 ### Example
 
 [ColorSplash](https://www.youtube.com/watch?v=mUJGSjQHBm8)
 
 ### Project Components
+
+🔴
+
+> [!WARNING]
+> Deprecation notice, this repo is being archived in favour of the mono repo approch for the mcp https://github.com/mcp-servers-for-revit/mcp-servers-for-revit
+> Simpler CI, less confusion for noobs, npm package and simpler install
+
+
+---
+---
+
+These repo are deprecated in favour of https://github.com/mcp-servers-for-revit/mcp-servers-for-revit (monorepo)
+
 
 The project consists of three main parts:
 
